@@ -10,11 +10,11 @@ stroke(255,0,0);
 strokeWeight(5);
 line(100,10,100,190);
 
-stroke(255,0,0);
+stroke(100,100,50);
 strokeWeight(5);
 line(10,140,190,60);
 
-stroke(255,0,0);
+stroke(0,0,255);
 strokeWeight(5);
 line(10,60,190,140);
 ________________________________________
