@@ -7,7 +7,7 @@ println("voorbeeld println");
 
 print("voorbeeld print");
 ____________________________________
-opdracht: 2,2 en 2,3
+Opdracht: 2,2 en 2,3
 
 size(1500, 1000);
 
