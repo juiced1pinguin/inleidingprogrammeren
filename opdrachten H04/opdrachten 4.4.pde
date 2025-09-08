@@ -15,4 +15,4 @@ println(Math.floor(50.9));
 
 println(abs(-821));
 
-//als ik naar de math page van processing kijk is dis wat me gelijk opvalt w=dat ik wel akn doen
+//als ik naar de math page van processing kijk is dit is wat me gelijk opvalt want dit kan ik wel kan doen
