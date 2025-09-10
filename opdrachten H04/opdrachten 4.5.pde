@@ -12,4 +12,4 @@ println(uren = minuten / uren);
 
 println(jaren = uren / jaren);
 
-println();
+println(jaren);
