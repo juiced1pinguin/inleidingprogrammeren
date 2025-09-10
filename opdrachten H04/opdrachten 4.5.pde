@@ -1,15 +1,15 @@
 float seconden = 500000;
 
-float minuten = 60;
-
 float uren = 60;
+
+float dagen = 60;
 
 float jaren = 365;
 
-println(minuten = seconden / minuten);
+println(uren = seconden / uren);
 
-println(uren = minuten / uren);
+println(dagen = uren / dagen);
 
-println(jaren = uren / jaren);
+println(jaren = dagen / jaren);
 
 println(jaren);
