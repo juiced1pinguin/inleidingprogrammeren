@@ -8,6 +8,6 @@ String tekstvier = "6879356";
 
 String combinatie = "";
 
-combinatie = teksteen + teksttwee + tekstdrie + tekstvier;
+combinatie = teksteen + tekstvier + tekstdrie + teksttwee;
 
 println(combinatie);
