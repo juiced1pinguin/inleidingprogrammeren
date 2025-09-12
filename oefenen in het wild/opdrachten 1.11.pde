@@ -27,7 +27,7 @@ if(steen3 == 1){
 }
 
 
-//dit gedeelte is vood de critical miss en de MEGA HIT.
+//dit gedeelte is voor de critical miss en de MEGA HIT.
 if (steen1 < 2 && steen2 < 2 && steen3 < 2){
   println("Critical MISS!");
 } else if (steen1 > 5 && steen2 > 5 && steen3 > 5){
