@@ -1,27 +1,27 @@
-int steen1 = 6;
-int steen2 = 6;
-int steen3 = 6;
+int steen1 = 4;
+int steen2 = 1;
+int steen3 = 5;
 String resultaat = "damage";
 int totaalDamage = 0;
 
 if(steen1 == 1){
  println("mis!");
  
-} else if(steen1 > 1){
+} else if(steen3 > 1 && steen2 > 1 && steen1 > 1){
   println("HIT!");
   totaalDamage = steen1 + totaalDamage;
 } 
 
 if(steen2 == 1){
  println("mis!");
-} else if(steen2 > 1){
+} else if(steen3 > 1 && steen2 > 1 && steen1 > 1){
   println("HIT!");
   totaalDamage = steen2 + totaalDamage;
 }
 
 if(steen3 == 1){
  println("mis!");
-} else if(steen3 > 1){
+} else if(steen3 > 1 && steen2 > 1 && steen1 > 1){
   println("HIT!");
   totaalDamage = steen3 + totaalDamage;
 }
