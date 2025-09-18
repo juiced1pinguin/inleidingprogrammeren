@@ -1,7 +1,6 @@
-int rekensom1 = 3 + (6 * 9);
-
-if (rekensom1 == 59 ){
-  println(rekensom1);
-  
-}else{println("dit is niet het goede antwoord");
-}
+Boolean fiets = false;
+Boolean lopen = true;
+Boolean auto = true;
+if (!lopen && (fiets || auto)) {
+  println("Je gebruikt een voertuig met wielen");
+} else{println("i did it");}
