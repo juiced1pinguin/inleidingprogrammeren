@@ -1,7 +1,13 @@
-for (int i = 0; i < 10; i++) {
-  print(i * 20 + 20);
-  print(" | ");
-  print(i*20);
-  print(" | ");
-  println(i);
+for(int t = 0; t<=10; t++){
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  print("|");
+  println(t);
 }
