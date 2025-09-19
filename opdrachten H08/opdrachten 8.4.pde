@@ -1,4 +1,4 @@
-size(70, 70);
+size(100, 100);
 background(255, 255, 255);
 int xWaarde = 10;
 int yWaarde = 10;
