@@ -5,6 +5,10 @@ void setup(){
   println(nummer4);
 }
 
+void draw(){
+
+}
+
 int hulpme(int getal, int yipee){
   int totaal = getal + yipee;
   return totaal;
